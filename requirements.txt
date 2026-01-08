@@ -1,0 +1,5 @@
+streamlit
+rembg
+google-generativeai
+pillow
+onnxruntime
